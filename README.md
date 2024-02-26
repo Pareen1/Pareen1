@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJs, Tailwind CSS**
 
-- 📫 How to reach me **pareenv.96@gmail.com**
+- 📫 How to reach me **pareenv@gmail.com**
 
 - ⚡ Fun fact **I like to move it move it (get the ref?)**
 
